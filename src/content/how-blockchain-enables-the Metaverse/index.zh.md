@@ -128,9 +128,7 @@ NFT 允许用户真正玩游戏，购买稀有物品并以真钱出售这些物�
 
 ## NFT 解锁元宇宙
 
-There is a whole host of other assets and [use cases that NFTs](https://newsletter.banklesshq.com/p/the-bull-case-for-nfts-jake-burkhman) will be used for within the metaverse, such as:
-
-有大量在元宇宙中使用 NFT 的其他资产和用例，例如：
+有大量在元宇宙中使用 NFT 的其他资产和[用例](https://newsletter.banklesshq.com/p/the-bull-case-for-nfts-jake-burkhman) ，例如：
 
 - 服饰
 - 梗（Memes）
