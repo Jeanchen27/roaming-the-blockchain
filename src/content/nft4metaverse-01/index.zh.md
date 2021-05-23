@@ -1,4 +1,4 @@
-# 动物园狂欢即将落幕，仍有认真在做事的「老鼠 🐭」和「猩猩 🦍」
+# 动物园狂欢落幕，仍有认真在做事的「老鼠 🐭」和「猩猩 🦍」| Today's Pick
 
 ![](./cover.jpg)
 _Photo by <a href="https://unsplash.com/@moniz437?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chauhan Moniz</a> on <a href="https://unsplash.com/s/photos/zootopia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_

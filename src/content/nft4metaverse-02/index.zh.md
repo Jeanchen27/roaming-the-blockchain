@@ -1,6 +1,6 @@
 # ONCYBER：一键免费创建你的 3D 虚拟画廊 | Today's Pick
 
-> 今天，「元宇宙特攻队」为你推荐展示加密艺术 NFT 的元宇宙画廊：[ONCYBER](https://oncyber.io/)✨✨✨✨
+> 今天，「元宇宙特攻队」为你推荐展示加密艺术 NFT 的元宇宙画廊：[ONCYBER](https://oncyber.io/)✨✨✨✨✨
 
 ![](./oncyber.png)
 

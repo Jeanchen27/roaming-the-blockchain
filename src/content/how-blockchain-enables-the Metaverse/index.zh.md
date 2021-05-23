@@ -66,7 +66,7 @@
 
 如果人们可以将所有内容复制并粘贴到元宇宙内，那么财产权利就不再重要了！
 
-元宇宙内部必须存在数字稀缺性，这一点至关重要。没有人愿意在游戏或虚拟世界中努力劳作，只是因为太多的复制和粘贴而让价值贬值（[听起来是否耳熟？](https://cointelegraph.com/news/us-printed-more-money-in-one-month-than-in-two-centuries)）。幸运的是，我们之所以受到保护，是因为区块链能创造使数字稀缺性。
+元宇宙内部必须存在数字稀缺性，这一点至关重要。没有人愿意在游戏或虚拟世界中努力劳作，只是因为太多的复制和粘贴而让价值贬值（[听起来是否耳熟？](https://cointelegraph.com/news/us-printed-more-money-in-one-month-than-in-two-centuries)）。幸运的是，我们之所以受到保护，是因为区块链能创造数字稀缺性。
 
 ### 互操作性
 
