@@ -1,4 +1,4 @@
-# SHOWTIME: Build your NFT social network | Today's Pick
+# SHOWTIME: Build your NFT Social Network | Today's Pick
 
 > Today, NFT4Metaverse recommends the world's first NFT social network for you: [SHOWTIME](https://tryshowtime.com)✨✨✨✨
 

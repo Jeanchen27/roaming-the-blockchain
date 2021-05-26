@@ -11,7 +11,7 @@ _Photo by <a href="https://unsplash.com/@moniz437?utm_source=unsplash&utm_medium
 
 ![](./rats.png)
 
-- Compared to those elegant crypt0 art galleries, auction houses or trading platforms, the art trading pool built by Rapid Art Token Swap (abbreviated RATS 😄) is really close to the ordinary people: you can put your own art NFT minted by yourself into the Vault to exchange a RATS Token (now all 1000 RATS Tokens has been claimed, only wait for someone to use the RATS Token to exchange the artwork he want in the vault by burning the Token), or exchange the artwork in the vault directly.
+- Compared to those elegant crypto art galleries, auction houses or trading platforms, the art trading pool built by Rapid Art Token Swap (abbreviated RATS 😄) is really close to the ordinary people: you can put your own art NFT minted by yourself into the Vault to exchange a RATS Token (now all 1000 RATS Tokens has been claimed, only wait for someone to use the RATS Token to exchange the artwork he want in the vault by burning the Token), or exchange the artwork in the vault directly.
 
 - 1000 RATS Tokens have been exchanged quickly since RATS launched on February 25th and the token price has risen to more than 1,000 USDT although the project has reiterated that the Token has no financial value at all. There are always 1000 works in the pool whose quality is uneven, but there is a chance to find a gem like POB. If you join the Discord of RATS and don't mute the channel, you can hear the notification of the successful exchange of NFTs every day, just like the squeaking of a little mouse who steals oil.
 
@@ -31,7 +31,7 @@ These projects above are presented by NFT4Metaverse and see you next time!
 
 _**Hunted by ABMTF_crypto**_
 
-_**Wrote by JESSCATE93 & cryptoroaming**_
+_**Written by JESSCATE93 & cryptoroaming**_
 
 > ![](./goat.jpg)
 >
