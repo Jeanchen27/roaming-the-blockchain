@@ -1,6 +1,6 @@
 # RAINBOW WALLET：the Most Beautiful Ethereum Wallet to Showcase NFTs | Today's Pick
 
-> Today, NFT4Metaverse recommends the most beautiful Ethereum wallet:[RAINBOW WALLET](https://www.rainbow.me/) ✨✨✨✨✨
+> Today, NFT4Metaverse recommends the most beautiful Ethereum wallet: [RAINBOW WALLET](https://www.rainbow.me/) ✨✨✨✨✨
 
 **By ABMTF_crypto**
 
@@ -11,8 +11,6 @@ Now, we will use Vitalik’s public wallet address to take you a complete journe
 > Vitalik Buterin's Public Ethereum Address: _0xab5801a7d398351b8be11c439e05c5b3259aec9b_
 
 ![](./cover.jpg)
-
-iPhone 用户请在苹果应用商店搜索「rainbow wallet」下载 App，安卓手机用户请到官网 **rainbow.me** 留下邮箱，耐心等待测试版体验通知。
 
 For iPhone users, please search for "rainbow wallet" in the Apple App Store to download the application. For Android phone users, please go to the website **rainbow.me** to leave an email address and wait patiently for the beta test invitation.
 
@@ -58,7 +56,6 @@ The team announced on Twitter yesterday that the web profile and search function
 
 ### Investment Progress
 
-- RAINBOW WALLET 目前只完成了种子轮融资，Collab+Currency、Digital Currency Group 和 FinTech Collective 3 家机构投资。
 - RAINBOW WALLET has only completed the seed round of investment by Collab+Currency, Digital Currency Group and FinTech Collective.
 
 **Website:** www.rainbow.me
