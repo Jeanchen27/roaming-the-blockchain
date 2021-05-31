@@ -12,6 +12,8 @@ _目前成交价最高的 Meebit，售价 700 ETH_
 
 目前 Meebits 还是个半成品。接下来，Meebit 持有者可以获得包含完整 3D 模型的资料包，可以自由渲染 Meebit 并为其设置动画，让它可以被用在任何游戏引擎、3D 工作室或用作元宇宙中的化身。这才是 Meebits 的关键。Cryptopunks 是藏品，可能也是文化符号，但 Meebits 可以被开发者所使用。
 
+![](./cover.png)
+
 Larva Labs 希望 Meebits 将成为未来虚拟世界、游戏和 VR 的 3D 化身。今天，我们为你介绍如何让你的 Meebits 会跳舞，而这个过程不需要复杂编程，基本是一键搞定。
 
 ### 第 1 步：下载 3D Voxel 模型文件
