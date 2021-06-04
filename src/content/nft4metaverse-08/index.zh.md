@@ -1,4 +1,4 @@
-# CRYPTO TRUNKS：检测以太坊钱包交易碳排放的收藏 NFT | Today's Pick
+# CRYPTO TRUNKS：看看你以太坊钱包交易排放了多少二氧化碳，长成了多高的树？ | Today's Pick
 
 > 今天，「元宇宙特攻队」为你推荐全球首个使用预言机、无碳排放的 NFT 项目：**Crypto Trunks** ✨✨✨✨
 >
