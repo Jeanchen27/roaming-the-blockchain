@@ -16,9 +16,9 @@ Seen Haus 迄今完成的 55 项艺术品拍卖或空投，其中绝大部分是
 
 ![](./artists.jpg)
 
-Seen Haus 邀请入驻合作的艺术家现有 24 位，如 tim-gatenby，buddyart00，carter， 1penemy，modestep，2ragon 等都是业内知名的加密艺术家。
+Seen Haus 邀请入驻合作的艺术家现有 24 位，如 tim-gatenby，buddyart00，carter，1penemy，modestep，2ragon 等都是业内知名的加密艺术家。
 
-5 月 1 日，Seen Haus 宣布 Vogue 意大利杂志的创意总监 Ferdinando Verderi 加入创意咨询团队。Ferdinando 一直为 Prada，Versace，Adidas Originals 等品牌制定创意、策略和广告，这为奢饰品牌大 IP 的 NFT 在 Seen Haus 拍卖提供了更多的可能性。
+5 月 1 日，Seen Haus 宣布 Vogue 意大利杂志的创意总监 Ferdinando Verderi 加入创意咨询团队。Ferdinando 一直为 Prada，Versace，Adidas Originals 等品牌制定创意、策略和广告，这为奢侈品牌大 IP 的 NFT 在 Seen Haus 拍卖提供了更多的可能性。
 
 ![](./collectors.jpg)
 
