@@ -2,7 +2,7 @@
 
 > What? Seen Haus, which was introduced in the last issue of NFT4Metaverse, is not going to be the Sotheby's of the digital world, why is it selling houses?
 >
-> Isn't the world's first house sold at auction as an NFT a piece of artwork that will go down in history? ✨✨✨✨✨
+> Isn't the world's first house auction as an NFT a piece of artwork that will go down in history? ✨✨✨✨✨
 
 **By ABMTF_crypto**
 
@@ -36,15 +36,15 @@ The world's first real estate NFT auction has already generated media attention 
 
 ![](./tim.jpg)
 
-As leading Silicon Valley investor and founding partner of DFJ, and blockchain believer, Tim Draper said, "I'm excited about how NFT in the virtual world will apply to real estate in the physical world. I speculate that the future looks bright for people soon to be able to buy houses, buy air rights, and buy digital ownership of any physical space."
+As leading Silicon Valley investor and founding partner of DFJ, and blockchain believer, Tim Draper said, "I am excited about how NFTs in the virtual world are going to be applied to real estate in the physical world. I suspect that people will soon be able to buy a building, buy the air rights and buy the virtual rights of any physical space. The future is awesome."
 
-Tim Draper's real estate tech company [Propy](https://propy.com/) is handling the world's first real estate NFT deal, and their female CEO Natalia Karayaneva wrote an article in Forbes in April, "NFT for Digital Art, Also Great for Real Estate," which is well worth It's worth a read.
+Tim Draper's real estate tech company [Propy](https://propy.com/) is handling the world's first real estate NFT deal, and CEO Natalia Karayaneva wrote an article in Forbes in April, "NFTs Work For Digital Art. They Also Work Perfectly For Real Estate," which is worth a read.
 
-**Link to article:** https://www.forbes.com/sites/nataliakarayaneva/2021/04/08/nfts-work-for-digital-art-they-also-work-perfectly-for-real- estate/
+**Article:** https://www.forbes.com/sites/nataliakarayaneva/2021/04/08/nfts-work-for-digital-art-they-also-work-perfectly-for-real-estate/?sh=29a213f143f3
 
 ### Why Seen Haus repeatedly delivers amazing lots
 
-Bullish people do bullish things, and today I would like to add to that the core brains of Seen Haus are not only the founding team, but also the members who hold its multi-signature wallet.
+Amazing people do something big, and today I would like to add to that the core brains of Seen Haus are not only the founding team, but also the members who hold its multi-signature wallet.
 
 - 0xMaki: Co-founder of SushiSwap, the humble anonymous
 - Laserbach: Head of Marketing at Seen Haus
