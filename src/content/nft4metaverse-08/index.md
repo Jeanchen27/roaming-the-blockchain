@@ -1,24 +1,24 @@
-# CRYPTO TRUNKS: See how much CO2 your ethereum wallet transactions emit and how tall a tree it grows? | Today's Pick
+# CRYPTO TRUNKS: See how much CO2 your ethereum transactions emit and how tall a tree grows? | Today's Pick
 
-> Today, "Meta-Universe Task Force" recommends the world's first NFT project using prophecy machine and no carbon emission: **Crypto Trunks** ✨✨✨✨
+> Today, NFT4Metaverse recommends the world's first NFT project using oracle and zero carbon emission: **Crypto Trunks** ✨✨✨✨
 >
 > Website:**cryptotrunks.co**
 
 **By ABMTF_crypto**
 
-High energy consumption and lack of environmental protection have become another controversial topic in this round of bullish cryptocurrency and NFT bursting out of the circle. Not long ago, Musk, who calls the shots in the cryptocurrency world, used this as an excuse to suddenly announce Tesla's suspension of accepting bitcoin payments for cars, surprisingly triggering the deepest round of plunges this year.
+High energy consumption and lack of environmental protection have become another controversial topic in this bullish crypto market. Not long ago, Elon Musk used this as an excuse to suddenly announce the suspension of accepting bitcoin payments for Tesla cars, surprisingly triggering the deepest round of plunges this year.
 
 Crypto Trunks is the industry's first NFT project that uses a prophecy machine to calculate carbon emissions and randomly generate collectibles.
 
-! [](. /cover.jpg)
+![](./cover.jpg)
 
 Crypto Trunks uses the Chainlink prophecy machine to look at the transaction history of your ethereum wallet address to calculate how much Gas was spent in total, and thus extrapolate how many kilograms of CO2 were produced in total, combining other wallet data and variables to generate a random 100 by 100 pixel tree - if you If you have more transactions and consume more Gas, the thicker the tree will be to indicate how much you are "spoiling" the environment 🌲 !
 
-! ! [](. /trees.jpg)
+![](./trees.jpg)
 
 Crypto Trunks are divided into 19,500 Generative Trunks (available by airdrop) and 1,500 Genesis Trunks (priced at 0.5 ETH), for a total of 21,000 - an apparent tribute to the 21 million total Bitcoins. Since the project went live on May 21, the day after the biggest crash of the year, Generative Trunk has been fully claimed and 1,500 Genesis Trunks have been bought, with 1,026 bought.
 
-! ![](. /example.jpg)
+![](./example.jpg)
 
 As shown above, this Generative Trunk number 13346 has 10 attributes and 7 layers (sky, background elements, mid-ground 1 and 2, tree and foreground elements).
 
@@ -29,11 +29,11 @@ Other layers and attributes have different probabilities of scarcity (list of at
 
 Genesis Trunk has a fixed price of 0.5 ETH and its properties are completely different from Generative Trunk, the project owner uses Chainlink VRF (Verifiable Random Function) to determine which tree you get, so it is a truly randomly generated collector NFT.
 
-! [](. /opensea.jpg)
+![](./opensea.jpg)
 
 As the graph shows, Crypto Trunks is currently actively traded on Opensea: over 10,000 collectors have listed and traded over 20,000 trees, with a total of 91.3 trees traded successfully for an average price of 0.17 ETH.
 
-! [](. /highest.jpg)
+![](./highest.jpg)
 
 highest*sale_price: 4.25 ETH*
 

@@ -40,7 +40,7 @@ _https://propy.com/browse/propy-nft/_
 
 Tim Draper 投资的房地产科技公司 [Propy](https://propy.com/)操刀全球第一个房地产 NFT 这桩买卖，他们家女 CEO Natalia Karayaneva 4 月在福布斯杂志写了篇文章《NFT 适用于数字艺术，同样也非常适合房地产》，非常值得一读。
 
-**文章链接：** https://www.forbes.com/sites/nataliakarayaneva/2021/04/08/nfts-work-for-digital-art-they-also-work-perfectly-for-real-estate/
+**文章链接：** https://www.forbes.com/sites/nataliakarayaneva/2021/04/08/nfts-work-for-digital-art-they-also-work-perfectly-for-real-estate/?sh=29a213f143f3
 
 ### Seen Haus 为何屡屡推出令人惊叹的拍品？
 
