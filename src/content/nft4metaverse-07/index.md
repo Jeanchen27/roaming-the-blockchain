@@ -21,7 +21,7 @@ The apartment will be sold by Michael Arrington, the founder of TechCrunch, who 
 
 ![](./nft-wall.jpg)
 
-This unique collectible NFT includes not only the property deed of this apartment, but also:
+This unique collectible NFT includes not only the property deed of this apartment but also:
 
 - A digital image depicting the apartment
 - A digital artwork NFT by the famous Kiev graffiti artist Chizz, this digital painting is also painted on the apartment's living room wall (see above)
@@ -36,7 +36,7 @@ The world's first real estate NFT auction has already generated media attention 
 
 ![](./tim.jpg)
 
-As leading Silicon Valley investor and founding partner of DFJ, and blockchain believer, Tim Draper said, "I am excited about how NFTs in the virtual world are going to be applied to real estate in the physical world. I suspect that people will soon be able to buy a building, buy the air rights and buy the virtual rights of any physical space. The future is awesome."
+As a leading Silicon Valley investor and founding partner of DFJ, and blockchain believer, Tim Draper said, "I am excited about how NFTs in the virtual world are going to be applied to real estate in the physical world. I suspect that people will soon be able to buy a building, buy the air rights and buy the virtual rights of any physical space. The future is awesome."
 
 Tim Draper's real estate tech company [Propy](https://propy.com/) is handling the world's first real estate NFT deal, and CEO Natalia Karayaneva wrote an article in Forbes in April, "NFTs Work For Digital Art. They Also Work Perfectly For Real Estate," which is worth a read.
 
