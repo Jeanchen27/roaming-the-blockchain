@@ -1,10 +1,10 @@
-# Seen Haus: A digital Sotheby's that blends NFT with physical artwork | Today's Pick
+# Seen Haus: A Digital Sotheby's that Blends NFT with Physical Artwork | Today's Pick
 
 > Today, NFT4Metaverse recommends [Seen Haus](https://seen.haus/) that hopes to be Sotheby's in the digital world. ✨✨✨✨✨
 
 **By ABMTF_crypto**
 
-As art/collectibles burst into the first application of NFT, more and more art platforms are introducing curation elements to attract artists and collectors with their own characteristics. Among the many curated art platforms, Seen Haus is the first to merge digital and physical artworks through NFT and physical product auctions, and aspires to be the Sotheby's auction house of the digital world.
+More and more art platforms are introducing curation elements to attract artists and collectors with their own characteristics. Among the many curated art platforms, Seen Haus is the first to merge digital and physical artworks through NFT and physical product auctions, and aspires to be the Sotheby's auction house of the digital world.
 
 ![](./cover.jpg)
 
@@ -40,6 +40,6 @@ Seen Haus went live in April of this year with the stake feature that allows sta
 
 ### Team
 
-Seen Haus was launched in mid-October last year, renamed from the previous OFF BLUE project. The core team includes: creative lead @buddyart00, lead developer @cryptosamurai, Solidity lead developer @EyeOfSauronSeen, front-end designer @jigglybuff69 and Communication Operations @Jigsaw.
+Seen Haus was launched in mid-October last year, renamed from the previous OFF BLUE project. The core team includes creative lead @buddyart00, lead developer @cryptosamurai, Solidity lead developer @EyeOfSauronSeen, front-end designer @jigglybuff69 and Communication Operations @Jigsaw.
 
 This project above is presented by NFT4Metaverse and see you next time!

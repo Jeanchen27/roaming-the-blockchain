@@ -3,17 +3,17 @@
 ![](./cover.jpg)
 _Photo by <a href="https://unsplash.com/@moniz437?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chauhan Moniz</a> on <a href="https://unsplash.com/s/photos/zootopia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_
 
-> I haven't watched [Zootopia](https://youtu.be/JMA4UIPzHww), but the real world is indeed crazier than the movie in these days. As Vitalik smashed the 50 trillion SHIB donated by the project team and other animal coins such as AKITA (of course, donating is much more beautiful than just eating in your own pocket), the frenzy of Zootopia may come to an end...
+> I haven't watched [Zootopia](https://youtu.be/JMA4UIPzHww), but the real world is indeed crazier than the movie in these days. As Vitalik sold out the 50 trillion SHIB donated by the project team and other animal coins such as AKITA (of course, donating is much more graceful than just putting into his own pocket), the frenzy of Zootopia may come to an end...
 >
-> However, don't think that all animals are crazy hype. Today, our NFT4Metaverse will introduce you to 2 animals who are doing their jobs seriously!
+> However, don't think that all animals are crazy hype. Today, our NFT4Metaverse will introduce you 2 animals who are doing their jobs seriously!
 
 ## Rapid Art Token Swap 🐭
 
 ![](./rats.png)
 
-- Compared to those elegant crypto art galleries, auction houses or trading platforms, the art trading pool built by Rapid Art Token Swap (abbreviated RATS 😄) is really close to the ordinary people: you can put your own art NFT minted by yourself into the Vault to exchange a RATS Token (now all 1000 RATS Tokens has been claimed, only wait for someone to use the RATS Token to exchange the artwork he want in the vault by burning the Token), or exchange the artwork in the vault directly.
+- Compared to those elegant crypto art galleries, auction houses or trading platforms, the artwork swap pool built by Rapid Art Token Swap (abbreviated RATS 😄) is really close to the ordinary people: you can put your own art NFT minted by yourself into the Vault to exchange a RATS Token (now all 1000 RATS Tokens has been claimed, only wait for someone to use the RATS Token to exchange the artwork he want in the vault by burning the Token), or exchange the artwork in the vault directly.
 
-- 1000 RATS Tokens have been exchanged quickly since RATS launched on February 25th and the token price has risen to more than 1,000 USDT although the project has reiterated that the Token has no financial value at all. There are always 1000 works in the pool whose quality is uneven, but there is a chance to find a gem like POB. If you join the Discord of RATS and don't mute the channel, you can hear the notification of the successful exchange of NFTs every day, just like the squeaking of a little mouse who steals oil.
+- 1000 RATS Tokens have been exchanged quickly since RATS launched on February 25th and the token price has risen to more than 1,000 USDT although the project has reiterated that RATS Token has no financial value at all. There are always 1000 works in the pool whose quality is uneven, but there is a chance to find a gem like POB. If you join the Discord of RATS and don't mute the channel, you can hear the notification of the successful exchange of NFTs every day, just like the squeaking of a little mouse who steals oil.
 
 - RATS open a new vault with Friends with Arts on April 28th and you can exchange Token or NFTs as long as you hold 60 FWB Tokens.
 

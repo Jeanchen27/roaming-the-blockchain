@@ -20,7 +20,7 @@ Open the application homepage, you can create a new wallet or import an existing
 
 ![](./home.jpg)
 
-After the wallet is created, you can see Balances, Savings, Pools and Colletibles on the homepage, click on any token in Balances, you can send or swap —— OMG, whose balance has a huge sum of US$1.6 trillion? !
+After the wallet is created, you can see Balances, Savings, Pools and Collectibles on the homepage, click on any token in Balances, you can send or swap —— OMG, whose balance has a huge sum of US$1.6 trillion? !
 
 ![](./history.jpg)
 
@@ -46,7 +46,7 @@ Rainbow Wallet's display of NFT is very lively and beautiful, and it can also di
 
 ![](./web.jpg)
 
-The team announced on Twitter yesterday that the web profile and search functions will be launched this week. The above picture is a bunch of NFTs displayed by searching the Vitalik's address. We speculate that Rainbow Wallet will strengthen the social function based on NFT, which may be compete with [SHOWTIME](https://mp.weixin.qq.com/s/n9jtLs7iaxpQOC1e7zLcHQ) we recommended before.
+The team announced on Twitter yesterday that the web profile and search functions will be launched this week. The above picture is a bunch of NFTs displayed by searching Vitalik's address. We speculate that Rainbow Wallet will strengthen the social function based on NFT, which may be compete with [SHOWTIME](https://mp.weixin.qq.com/s/n9jtLs7iaxpQOC1e7zLcHQ) we recommended before.
 
 ### About The Team
 
