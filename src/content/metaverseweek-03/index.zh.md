@@ -54,13 +54,13 @@
 
 ![](./moca.png)
 
-由 MOCA 和 MyCryptoProfile 主办，艺数力画廊、Cryptoart.ai、元宇宙特攻队协办的「自我的觉醒」（Self Awakened）主题展同时在元宇宙、文化周官网和线下。
+由 MOCA 和 MyCryptoProfile 主办，艺数力画廊、Cryptoart.ai、元宇宙特攻队协办的「自我的觉醒」（Self Awakened）主题展同时在元宇宙、文化周官网和上海 M50 展出。
 
-- 元宇宙：展览将于 10 月 22 日在 Somnium Space、Decentraland 和 CryptoVoxels 三大主要的元宇宙展出，并分别于 21 日晚在 Somnium Space、25 日晚在 Decentraland 和 28 日晚在 CryptoVoxels 举行开展、聚会和闭幕狂欢活动 —— 如何参与？请关注元宇宙特攻队（@NFT4M 哦她 verse）和 MOCA（@MuseumofCrypto）官方推特消息。
+- 元宇宙：展览将于 10 月 22 日在 Somnium Space、Decentraland 和 CryptoVoxels 三大主要的元宇宙展出，并分别于 21 日晚在 Somnium Space、25 日晚在 Decentraland 和 28 日晚在 CryptoVoxels 举行开展、聚会和闭幕狂欢活动 —— 如何参与？请关注元宇宙特攻队（@NFT4Metaverse）和 MOCA（@MuseumofCrypto）官方推特消息。
 
-- 官网：现在点击 **www.m7e.sh/#block2** 即可看到 MOCA 展作品以瀑布流方式呈现，欢迎使用弹幕评论留言，欢迎分享艺术家作品到推特上，我们将随机送上惊喜！
+- 官网：扫码即可欣赏以瀑布流方式呈现的 MOCA 展，欢迎使用弹幕评论留言，欢迎分享艺术家作品到推特上，我们将随机送上惊喜！
 
-- 线下：10 月 22 日至 28 日在艺数力画廊举行，欢迎前往上海市莫干山路 50 号 M50 创意园 4B103 参观。
+- 上海 M50：10 月 22 日至 28 日在艺数力画廊举行，欢迎前往上海市莫干山路 50 号 M50 创意园 4B103 参观。
 
 ### 开幕论坛
 
@@ -92,7 +92,7 @@
 
 **M50 创意园**
 
-地址：上海市莫干山路 50 号 2 楼
+地址：上海市莫干山路 50 号
 
 - 10 月 23 日下午：数字交互体验派对「When Message Dreams」 @分号 C 办公室 17-108
 - 10 月 22 日至 28 日，M50 线下展 @艺数力画廊 4B103
@@ -103,7 +103,7 @@
 
 ![](./invite-link.png)
 
-_网址：\**invite.m7e.sh/*_
+_网址：\**invite.m7e.sh*_
 
 ![](./post.jpeg)
 
