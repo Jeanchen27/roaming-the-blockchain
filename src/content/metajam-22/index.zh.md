@@ -6,7 +6,7 @@
 
 ## 4 大赛道 12 强项目诞生
 
-7 月 19 日，全美最大学生区块链黑客松 Mega Hackathon 历时一个多月的线上报名、展示和评审，DeFi、NFT、Gaming、Web3 等四大赛道前三强项目，最终从 41 个报名项目中脱颖而出，正式亮相。
+7 月 19 日，全美规模最大的学生区块链黑客松 Mega Hackathon 历时一个多月的线上报名、展示和评审，DeFi、NFT、Gaming、Web3 等四大赛道前三强项目，最终从 41 个报名项目中脱颖而出，正式亮相。
 
 ### DeFi
 
@@ -14,7 +14,7 @@
 
 **一等奖：** LightningCELO
 
-![](./lightningcelo.webp)
+![](./lightningcelo.jpg)
 
 **链接：** https://www.metajam.studio/project/lightningcelo
 
@@ -22,7 +22,7 @@
 
 **二等奖：** Infinity Wallet
 
-![](./infinity-wallet.webp)
+![](./infinity-wallet.jpg)
 
 **链接：** https://www.metajam.studio/project/infinity-wallet
 
@@ -42,7 +42,7 @@
 
 **一等奖：** FindTruman
 
-![](./findtruman.webp)
+![](./findtruman.jpg)
 
 **链接：** https://www.metajam.studio/project/findtruman
 
@@ -50,7 +50,7 @@
 
 **二等奖：** Certificate Machine
 
-![](./certificate-machine.webp)
+![](./certificate-machine.jpg)
 
 **链接：** https://www.metajam.studio/project/certificate-machine
 
@@ -58,7 +58,7 @@
 
 **三等奖：** POB
 
-![](./pob.webp)
+![](./pob.jpg)
 
 **链接：** https://www.metajam.studio/project/pob
 
@@ -70,7 +70,7 @@
 
 **一等奖：** AuroraQuest
 
-![](./AuroraQuest.webp)
+![](./AuroraQuest.jpg)
 
 **链接：** https://www.metajam.studio/project/auroraquest
 
@@ -106,7 +106,7 @@
 
 **二等奖：** Purebet
 
-![](./Purebet.webp)
+![](./Purebet.jpg)
 
 **链接：** https://www.metajam.studio/project/purebet
 
@@ -114,7 +114,7 @@
 
 **三等奖：** Flamingle
 
-![](./flamingle.webp)
+![](./flamingle.jpg)
 
 **链接：** https://www.metajam.studio/project/flamingle
 
